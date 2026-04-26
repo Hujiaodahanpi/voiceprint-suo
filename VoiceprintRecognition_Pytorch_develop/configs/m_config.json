@@ -1,0 +1,6 @@
+{
+    "configs": "VoiceprintRecognition-Pytorch-develop/configs/cam++.yml",
+    "model_path": "VoiceprintRecognition-Pytorch-develop/models/训练其他超大数据集的模型/CAMPPlus训练其他超大数据集/models/CAMPPlus_Fbank/best_model",
+    "audio_db_path": "VoiceprintRecognition-Pytorch-develop/audio_db/",
+    "temp_sound_store_path": "VoiceprintRecognition-Pytorch-develop/temp_sound/"
+}
